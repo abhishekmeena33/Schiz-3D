@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\OneDrive - IIT Kanpur\\Desktop\\GameDev\\Schiz Game 3D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dell\\OneDrive - IIT Kanpur\\Desktop\\GameDev\\Schiz Game 3D\\Assets\\IgniteCoders\\Simple Water Shader\\Info\\Scripts\\Editor\\ReadmeEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\IgniteCoders\\Simple Water Shader\\Info\\Scripts\\Editor\\ReadmeEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dell\\OneDrive - IIT Kanpur\\Desktop\\GameDev\\Schiz Game 3D\\Assets\\Bitgem\\StylisedWater\\URP\\Scripts\\Bitgem\\Editor\\FlagEnumAttributeDrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Bitgem\\StylisedWater\\URP\\Scripts\\Bitgem\\Editor\\FlagEnumAttributeDrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dell\\OneDrive - IIT Kanpur\\Desktop\\GameDev\\Schiz Game 3D\\Temp\\Compiled-Standard (Specular setup).shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Temp\\Compiled-Standard (Specular setup).shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E44CF6-A155-4879-4B0B-2E64AA074A56}|Assembly-CSharp.csproj|C:\\Users\\dell\\OneDrive - IIT Kanpur\\Desktop\\GameDev\\Schiz Game 3D\\assets\\polytope studio\\lowpoly_environments\\sources\\shaders\\pt_water_shader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{74E44CF6-A155-4879-4B0B-2E64AA074A56}|Assembly-CSharp.csproj|solutionrelative:assets\\polytope studio\\lowpoly_environments\\sources\\shaders\\pt_water_shader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E44CF6-A155-4879-4B0B-2E64AA074A56}|Assembly-CSharp.csproj|C:\\Users\\dell\\OneDrive - IIT Kanpur\\Desktop\\GameDev\\Schiz Game 3D\\assets\\polytope studio\\lowpoly_demos\\environment_free\\helpers\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E44CF6-A155-4879-4B0B-2E64AA074A56}|Assembly-CSharp.csproj|solutionrelative:assets\\polytope studio\\lowpoly_demos\\environment_free\\helpers\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E44CF6-A155-4879-4B0B-2E64AA074A56}|Assembly-CSharp.csproj|C:\\Users\\dell\\OneDrive - IIT Kanpur\\Desktop\\GameDev\\Schiz Game 3D\\assets\\stylized npc - peasant nolant\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{74E44CF6-A155-4879-4B0B-2E64AA074A56}|Assembly-CSharp.csproj|solutionrelative:assets\\stylized npc - peasant nolant\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E44CF6-A155-4879-4B0B-2E64AA074A56}|Assembly-CSharp.csproj|C:\\Users\\dell\\OneDrive - IIT Kanpur\\Desktop\\GameDev\\Schiz Game 3D\\assets\\polytope studio\\lowpoly_demos\\environment_free\\helpers\\mouselook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E44CF6-A155-4879-4B0B-2E64AA074A56}|Assembly-CSharp.csproj|solutionrelative:assets\\polytope studio\\lowpoly_demos\\environment_free\\helpers\\mouselook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReadmeEditor.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive - IIT Kanpur\\Desktop\\GameDev\\Schiz Game 3D\\Assets\\IgniteCoders\\Simple Water Shader\\Info\\Scripts\\Editor\\ReadmeEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\IgniteCoders\\Simple Water Shader\\Info\\Scripts\\Editor\\ReadmeEditor.cs",
+              "ToolTip": "C:\\Users\\dell\\OneDrive - IIT Kanpur\\Desktop\\GameDev\\Schiz Game 3D\\Assets\\IgniteCoders\\Simple Water Shader\\Info\\Scripts\\Editor\\ReadmeEditor.cs",
+              "RelativeToolTip": "Assets\\IgniteCoders\\Simple Water Shader\\Info\\Scripts\\Editor\\ReadmeEditor.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:13:34.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FlagEnumAttributeDrawer.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive - IIT Kanpur\\Desktop\\GameDev\\Schiz Game 3D\\Assets\\Bitgem\\StylisedWater\\URP\\Scripts\\Bitgem\\Editor\\FlagEnumAttributeDrawer.cs",
+              "RelativeDocumentMoniker": "Assets\\Bitgem\\StylisedWater\\URP\\Scripts\\Bitgem\\Editor\\FlagEnumAttributeDrawer.cs",
+              "ToolTip": "C:\\Users\\dell\\OneDrive - IIT Kanpur\\Desktop\\GameDev\\Schiz Game 3D\\Assets\\Bitgem\\StylisedWater\\URP\\Scripts\\Bitgem\\Editor\\FlagEnumAttributeDrawer.cs",
+              "RelativeToolTip": "Assets\\Bitgem\\StylisedWater\\URP\\Scripts\\Bitgem\\Editor\\FlagEnumAttributeDrawer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:06:04.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Compiled-Standard (Specular setup).shader",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive - IIT Kanpur\\Desktop\\GameDev\\Schiz Game 3D\\Temp\\Compiled-Standard (Specular setup).shader",
+              "RelativeDocumentMoniker": "Temp\\Compiled-Standard (Specular setup).shader",
+              "ToolTip": "C:\\Users\\dell\\OneDrive - IIT Kanpur\\Desktop\\GameDev\\Schiz Game 3D\\Temp\\Compiled-Standard (Specular setup).shader",
+              "RelativeToolTip": "Temp\\Compiled-Standard (Specular setup).shader",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-03-18T08:52:20.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PT_Water_Shader.shader",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive - IIT Kanpur\\Desktop\\GameDev\\Schiz Game 3D\\Assets\\Polytope Studio\\Lowpoly_Environments\\Sources\\Shaders\\PT_Water_Shader.shader",
+              "RelativeDocumentMoniker": "Assets\\Polytope Studio\\Lowpoly_Environments\\Sources\\Shaders\\PT_Water_Shader.shader",
+              "ToolTip": "C:\\Users\\dell\\OneDrive - IIT Kanpur\\Desktop\\GameDev\\Schiz Game 3D\\Assets\\Polytope Studio\\Lowpoly_Environments\\Sources\\Shaders\\PT_Water_Shader.shader",
+              "RelativeToolTip": "Assets\\Polytope Studio\\Lowpoly_Environments\\Sources\\Shaders\\PT_Water_Shader.shader",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-03-14T09:17:20.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive - IIT Kanpur\\Desktop\\GameDev\\Schiz Game 3D\\Assets\\Polytope Studio\\Lowpoly_Demos\\Environment_Free\\Helpers\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Polytope Studio\\Lowpoly_Demos\\Environment_Free\\Helpers\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\dell\\OneDrive - IIT Kanpur\\Desktop\\GameDev\\Schiz Game 3D\\Assets\\Polytope Studio\\Lowpoly_Demos\\Environment_Free\\Helpers\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Polytope Studio\\Lowpoly_Demos\\Environment_Free\\Helpers\\PlayerMovement.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwC0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T07:26:45.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "README.txt",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive - IIT Kanpur\\Desktop\\GameDev\\Schiz Game 3D\\Assets\\Stylized NPC - Peasant Nolant\\README.txt",
+              "RelativeDocumentMoniker": "Assets\\Stylized NPC - Peasant Nolant\\README.txt",
+              "ToolTip": "C:\\Users\\dell\\OneDrive - IIT Kanpur\\Desktop\\GameDev\\Schiz Game 3D\\Assets\\Stylized NPC - Peasant Nolant\\README.txt",
+              "RelativeToolTip": "Assets\\Stylized NPC - Peasant Nolant\\README.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-14T07:07:07.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MouseLook.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive - IIT Kanpur\\Desktop\\GameDev\\Schiz Game 3D\\Assets\\Polytope Studio\\Lowpoly_Demos\\Environment_Free\\Helpers\\MouseLook.cs",
+              "RelativeDocumentMoniker": "Assets\\Polytope Studio\\Lowpoly_Demos\\Environment_Free\\Helpers\\MouseLook.cs",
+              "ToolTip": "C:\\Users\\dell\\OneDrive - IIT Kanpur\\Desktop\\GameDev\\Schiz Game 3D\\Assets\\Polytope Studio\\Lowpoly_Demos\\Environment_Free\\Helpers\\MouseLook.cs",
+              "RelativeToolTip": "Assets\\Polytope Studio\\Lowpoly_Demos\\Environment_Free\\Helpers\\MouseLook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T15:48:39.029Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

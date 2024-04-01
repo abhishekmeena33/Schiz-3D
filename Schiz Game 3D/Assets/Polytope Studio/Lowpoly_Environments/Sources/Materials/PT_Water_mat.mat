@@ -19,7 +19,7 @@ Material:
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
-  m_LockedProperties: 
+  m_LockedProperties: _DeepColor
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -41,6 +41,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _CameraOrthoSize: 10
     - _Depth: 0.304
     - _DepthStrength: 0.969
     - _Float1: 0.1

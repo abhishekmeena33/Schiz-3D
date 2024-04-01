@@ -8,8 +8,8 @@ public class FollowWP : MonoBehaviour
     public Transform[] waypoints; // Waypoints representing the corners of the "X" shape
     private int currentWaypointIndex = 0;
     private float movementSpeed = 5f;
-    private bool moveToMiddleWaypoint = true;
-    private bool canClick = true; // Flag to indicate if clicking on waypoints is allowed
+    //private bool moveToMiddleWaypoint = true;
+    public bool canClick = true; // Flag to indicate if clicking on waypoints is allowed
     private enum MovementState { Idle, MovingToMiddle, MovingToWaypoint };
     private MovementState movementState = MovementState.Idle;
     private Animator animator;
@@ -64,7 +64,7 @@ public class FollowWP : MonoBehaviour
                 // Check if reached the middle waypoint
                 if (Vector3.Distance(transform.position, middleWaypoint.position) < 0.1f)
                 {
-                    moveToMiddleWaypoint = false;
+                    //moveToMiddleWaypoint = false;
                     canClick = true; // Allow clicking on waypoints
                     movementState = MovementState.Idle;
                 }

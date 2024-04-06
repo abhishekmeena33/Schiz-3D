@@ -7,7 +7,7 @@ public class FollowWP : MonoBehaviour
     public Transform middleWaypoint; // Middle waypoint of the "X" shape
     public Transform[] waypoints; // Waypoints representing the corners of the "X" shape
     private int currentWaypointIndex = 0;
-    private float movementSpeed = 5f;
+    public float movementSpeed = 5f;
     //private bool moveToMiddleWaypoint = true;
     public bool canClick = true; // Flag to indicate if clicking on waypoints is allowed
     private enum MovementState { Idle, MovingToMiddle, MovingToWaypoint };
